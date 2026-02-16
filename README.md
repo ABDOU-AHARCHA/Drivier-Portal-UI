@@ -7,7 +7,7 @@ Clean, modern design with smooth animations and a polished feel.
 
 ## Demo
 
-https://github.com/YOUR_USERNAME/driver_portal/raw/main/screenshots/app_video.mp4
+https://github.com/ABDOU-AHARCHA/driver_portal/raw/main/screenshots/app_video.mp4
 
 ---
 
@@ -63,7 +63,7 @@ lib/
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/driver_portal.git
+git clone https://github.com/ABDOU-AHARCHA/driver_portal.git
 
 # Install dependencies
 flutter pub get
