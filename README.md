@@ -7,7 +7,7 @@ Clean, modern design with smooth animations and a polished feel.
 
 ## Demo
 
-https://github.com/ABDOU-AHARCHA/driver_portal/raw/main/screenshots/app_video.mp4
+https://github.com/ABDOU-AHARCHA/Drivier-Portal-UI/raw/main/screenshots/app_video.mp4
 
 ---
 
@@ -15,7 +15,7 @@ https://github.com/ABDOU-AHARCHA/driver_portal/raw/main/screenshots/app_video.mp
 
 | Home (Offline) | Home (Online) | Active Trip | Settings | Side Drawer |
 |:-:|:-:|:-:|:-:|:-:|
-| ![Home Offline](screenshots/homescreen_offline.png) | ![Home Online](screenshots/home_screen.png) | ![Active Trip](screenshots/active_trip.png) | ![Settings](screenshots/setting.png) | ![Drawer](screenshots/side_drawer.png) |
+| ![Home Offline](https://github.com/ABDOU-AHARCHA/Drivier-Portal-UI/raw/main/screenshots/homescreen_offline.png) | ![Home Online](https://github.com/ABDOU-AHARCHA/Drivier-Portal-UI/raw/main/screenshots/home_screen.png) | ![Active Trip](https://github.com/ABDOU-AHARCHA/Drivier-Portal-UI/raw/main/screenshots/active_trip.png) | ![Settings](https://github.com/ABDOU-AHARCHA/Drivier-Portal-UI/raw/main/screenshots/setting.png) | ![Drawer](https://github.com/ABDOU-AHARCHA/Drivier-Portal-UI/raw/main/screenshots/side_drawer.png) |
 
 ---
 
@@ -63,7 +63,7 @@ lib/
 
 ```bash
 # Clone the repo
-git clone https://github.com/ABDOU-AHARCHA/driver_portal.git
+git clone https://github.com/ABDOU-AHARCHA/Drivier-Portal-UI.git
 
 # Install dependencies
 flutter pub get
