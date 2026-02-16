@@ -7,7 +7,7 @@ Clean, modern design with smooth animations and a polished feel.
 
 ## Demo
 
-https://github.com/ABDOU-AHARCHA/Drivier-Portal-UI/raw/main/screenshots/app_video.mp4
+https://raw.githubusercontent.com/ABDOU-AHARCHA/Drivier-Portal-UI/main/screenshots/app_video.mp4
 
 ---
 
@@ -15,7 +15,7 @@ https://github.com/ABDOU-AHARCHA/Drivier-Portal-UI/raw/main/screenshots/app_vide
 
 | Home (Offline) | Home (Online) | Active Trip | Settings | Side Drawer |
 |:-:|:-:|:-:|:-:|:-:|
-| ![Home Offline](https://github.com/ABDOU-AHARCHA/Drivier-Portal-UI/raw/main/screenshots/homescreen_offline.png) | ![Home Online](https://github.com/ABDOU-AHARCHA/Drivier-Portal-UI/raw/main/screenshots/home_screen.png) | ![Active Trip](https://github.com/ABDOU-AHARCHA/Drivier-Portal-UI/raw/main/screenshots/active_trip.png) | ![Settings](https://github.com/ABDOU-AHARCHA/Drivier-Portal-UI/raw/main/screenshots/setting.png) | ![Drawer](https://github.com/ABDOU-AHARCHA/Drivier-Portal-UI/raw/main/screenshots/side_drawer.png) |
+| ![Home Offline](https://raw.githubusercontent.com/ABDOU-AHARCHA/Drivier-Portal-UI/main/screenshots/homescreen_offline.jpeg) | ![Home Online](https://raw.githubusercontent.com/ABDOU-AHARCHA/Drivier-Portal-UI/main/screenshots/home_screen.jpeg) | ![Active Trip](https://raw.githubusercontent.com/ABDOU-AHARCHA/Drivier-Portal-UI/main/screenshots/active_trip.jpeg) | ![Settings](https://raw.githubusercontent.com/ABDOU-AHARCHA/Drivier-Portal-UI/main/screenshots/setting.jpeg) | ![Drawer](https://raw.githubusercontent.com/ABDOU-AHARCHA/Drivier-Portal-UI/main/screenshots/side_drawer.jpeg) |
 
 ---
 
