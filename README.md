@@ -1,25 +1,55 @@
-# Driver Portal — Flutter UI
+<div align="center">
+
+<br/>
+
+# ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+<br/>
+
+# CAREFULLY REVIEWED AND REVISED BY
+
+# A B D E L I L A H &nbsp;&nbsp; A H A R C H A
+
+<br/>
+
+# ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+<br/>
+
+</div>
+
+---
+
+# 🚗 Driver Portal — Flutter UI
+
+<div align="center">
 
 A driver-facing mobile app UI built with Flutter.
 Clean, modern design with smooth animations and a polished feel.
 
----
-
-## Demo
-
-![App Demo](https://raw.githubusercontent.com/ABDOU-AHARCHA/Drivier-Portal-UI/main/screenshots/app_video.gif)
+</div>
 
 ---
 
-## Screenshots
+## 🎬 App Demo
+
+<div align="center">
+
+![App Demo](screenshots/app_video.gif)
+
+</div>
+
+---
+
+## 📱 Screenshots
 
 | Home (Offline) | Home (Online) | Active Trip | Settings | Side Drawer |
-|:-:|:-:|:-:|:-:|:-:|
-| ![Home Offline](https://raw.githubusercontent.com/ABDOU-AHARCHA/Drivier-Portal-UI/main/screenshots/homescreen_offline.jpeg) | ![Home Online](https://raw.githubusercontent.com/ABDOU-AHARCHA/Drivier-Portal-UI/main/screenshots/home_screen.jpeg) | ![Active Trip](https://raw.githubusercontent.com/ABDOU-AHARCHA/Drivier-Portal-UI/main/screenshots/active_trip.jpeg) | ![Settings](https://raw.githubusercontent.com/ABDOU-AHARCHA/Drivier-Portal-UI/main/screenshots/setting.jpeg) | ![Drawer](https://raw.githubusercontent.com/ABDOU-AHARCHA/Drivier-Portal-UI/main/screenshots/side_drawer.jpeg) |
+|:---:|:---:|:---:|:---:|:---:|
+| ![Home Offline](screenshots/homescreen_offline.jpeg) | ![Home Online](screenshots/home_screen.jpeg) | ![Active Trip](screenshots/active_trip.jpeg) | ![Settings](screenshots/setting.jpeg) | ![Drawer](screenshots/side_drawer.jpeg) |
 
 ---
 
-## Features
+## ✨ Features
 
 - Shopify-style floating bottom navigation bar
 - Online / Offline toggle with smooth animation
@@ -32,16 +62,17 @@ Clean, modern design with smooth animations and a polished feel.
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-- **Flutter & Dart**
-- **Google Fonts** — Inter typography
-- **Material 3** — Design system
-- **CustomPainter** — Map and route drawing
+| Technology | Purpose |
+|---|---|
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | UI Framework |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) | Programming language |
+| ![Material Design](https://img.shields.io/badge/Material_Design-757575?style=flat&logo=material-design&logoColor=white) | Design system |
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 lib/
@@ -55,33 +86,60 @@ lib/
 └── widgets/
     ├── ride_offer_card.dart      # Ride request card
     └── shopify_bottom_nav.dart   # Custom bottom navbar
+
+screenshots/
+├── app_video.gif
+├── homescreen_offline.jpeg
+├── home_screen.jpeg
+├── active_trip.jpeg
+├── setting.jpeg
+└── side_drawer.jpeg
 ```
 
 ---
 
-## Getting Started
+## ⚡ Getting Started
+
+### 1. Clone the repository
 
 ```bash
-# Clone the repo
 git clone https://github.com/ABDOU-AHARCHA/Drivier-Portal-UI.git
+cd Drivier-Portal-UI
+```
 
-# Install dependencies
+### 2. Install dependencies
+
+```bash
 flutter pub get
+```
 
-# Run the app
+### 3. Run the app
+
+```bash
 flutter run
+```
 
-# Build APK
+### 4. Build APK
+
+```bash
 flutter build apk --release --split-per-abi
 ```
 
 ---
 
-## Note
+## 📌 Note
 
 This is a **front-end only** project. All data is mocked.
 No backend, no real map integration — built purely to demonstrate UI and navigation skills.
 
 ---
 
-**Abdelilah Aharcha**
+## 👤 Author
+
+**Abdelilah Aharcha** – Flutter Developer
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
