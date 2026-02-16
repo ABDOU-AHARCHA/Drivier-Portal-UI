@@ -7,7 +7,7 @@ Clean, modern design with smooth animations and a polished feel.
 
 ## Demo
 
-https://raw.githubusercontent.com/ABDOU-AHARCHA/Drivier-Portal-UI/main/screenshots/app_video.mp4
+https://raw.githubusercontent.com/ABDOU-AHARCHA/Drivier-Portal-UI/main/screenshots/app_video..gif
 
 ---
 
